@@ -1,2 +1,6 @@
+# Notebook Check points
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# Saved Model
+*.h5
