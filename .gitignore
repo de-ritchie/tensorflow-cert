@@ -4,3 +4,6 @@
 
 # Saved Model
 *.h5
+
+# Zipped files
+*.zip
