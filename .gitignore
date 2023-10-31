@@ -7,3 +7,6 @@
 
 # Zipped files
 *.zip
+
+# TSV files
+*.tsv
