@@ -10,3 +10,13 @@
 
 # TSV files
 *.tsv
+
+# Log files
+*/logs
+*/log_dir
+
+# Checkpoints
+*/checkpoints
+
+# TF Datasets
+*/data/tensorflow_datasets
